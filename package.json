@@ -1,0 +1,14 @@
+{
+  "name": "intro_to_gulp",
+  "version": "1.0.0",
+  "description": "gulp introduction",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gulp"
+  ],
+  "author": "hconley",
+  "license": "ISC"
+}
